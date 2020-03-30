@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-lottie-splashscreen": {
+      "PACKAGE_NAME": "de.dustplanet.lottie"
+    },
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "de.dustplanet.lottie"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "de.dustplanet.lottie"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "de.dustplanet.lottie"
+    }
+  },
+  "dependent_plugins": {}
+}
